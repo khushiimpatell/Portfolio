@@ -16,7 +16,7 @@ export default function Home() {
 
       <section className="mx-auto max-w-6xl px-6 py-16">
         <h2 className="text-3xl font-bold">Projects</h2>
-        <p className="mt-2 text-zinc-400">Click a project to learn more!</p>
+        <p className="mt-2 text-zinc-400">Click a project to learn more.</p>
 
         <div className="mt-8 grid gap-6 md:grid-cols-3">
           {projects.map((p) => (

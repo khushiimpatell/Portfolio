@@ -9,10 +9,10 @@ export default function Contact() {
           <a className="hover:underline" href="mailto:khushiimpatell@gmail.com">
             khushiimpatell@gmail.com
           </a>
-          <a className="hover:underline" href="https://github.com/khushiimpatell" target="_blank" rel="noopener">
+          <a className="hover:underline" href="https://github.com/khushiixpatell" target="_blank" rel="noopener">
             GitHub
           </a>
-          <a className="hover:underline" href="https://linkedin.com/in/khushi-m-patel" target="_blank" rel="noopener">
+          <a className="hover:underline" href="https://linkedin.com/in/khushi-x-patel" target="_blank" rel="noopener">
             LinkedIn
           </a>
         </div>
